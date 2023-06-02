@@ -1,0 +1,9 @@
+define Unknown = Character('Неизвестный', color="#B22222") #кирпичный
+define Dima = Character('Дима', color="#6B8E23") #оливковый
+define Curator = Character('Куратор', color="#B22222") #кирпичный
+define Alex = Character('Безумный Алекс', color="#4B0082") #индиго
+define Vika = Character('Вика', color="#FFD700") #золотой
+define Inter = Character('Любитель интерактивчиков', color="#C71585") #среднее между фиолетовым и красным
+define Misli = Character('В мыслях у Димы', color="#006400") #темно-зеленый
+define Alecsey = Character('Алексей', color="#00CED1") #темно-бирюзовый
+define Koreec = Character('Кум Чун Пук', color="#F0E68C") #хаки
