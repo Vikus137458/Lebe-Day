@@ -24,9 +24,10 @@
 
 # Локации:
 #   bg_Room66
-
+#   bg_Phon
 
 label Introduction:
+    scene bg_Phon
     "“Начало конца?!“" with dissolve
 
     scene bg_Room66
@@ -75,9 +76,14 @@ label Introduction:
     Misha "Доброе утро!"
     Character('Карина из - под кровати Ильи', color="#76e2e4") "Доброе утро!"
     Character('Голубь на карнизе за окном', color="#76e2e4") "Доброе утро!"
-    Character('Даша с шестого этажа', color="#76e2e4") "За****ли! Утро добрым не бывает!"
     hide ch_Ilya
     hide ch_Misha
+    hide ch_Dima
+    with easeoutbottom
+    show ch_Dasha at center with hpunch
+    Character('Даша с шестого этажа', color="#76e2e4") "За****ли! Утро добрым не бывает!"
+    hide ch_Dasha with hpunch
+    Author "Да уж"
     Author "Ребята встали, собрались и побежали на зарядку."
     Author "Каждый день они бегали по квартирам и предлагали свои услуги. Так они отрабатывали свой долг."
     Author "Спустя время ребята возвращаются домой."

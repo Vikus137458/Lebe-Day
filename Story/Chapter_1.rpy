@@ -7,8 +7,15 @@
 #   Philosopher
 #   Vika
 
+# Спрайты персонажей:
+#   ch_Curator
+#   ch_Dima
+#   ch_Philosopher
+#   ch_Vika
+
 # Локации:
-#   bg_Corridor
+#   bg_Phon
+#   bg_UniverCorridor
 #   bg_Cabinet214
 #   bg_BlackList
 #   bg_ClosetUnderStairs
@@ -19,7 +26,7 @@ label Chapter_1:
     scene bg_Phon
     "Глава 1: “Преступление и наказание“" with dissolve
 
-    scene bg_Corridor
+    scene bg_UniverCorridor
     Author "Дима понял, что ему необходимо что-то сделать, чтобы спасти себя от отчисления, для этого в первую очередь он решил обратиться за помощью к куратору."
     Author "Дима стучится в кабинет 214 и заходит в него."
     scene bg_Cabinet214

@@ -1,17 +1,21 @@
-# "Глава 3: “Лебединый хаос“
+# Глава 3: “Лебединый хаос“
 
 # Персонажы:
 #   Author
 #   Dima
-#   Philosopher
+#   Misli
+#   Physical
+#   Thounght_swan
+#   Swan
 #   Vika
 
+# Спрайты персонажей:
 #   ch_Dima
 #   ch_Swan
-#   ch_Dima
-#   ch_Dima
-#   ch_Dima
-#   ch_Dima
+#   ch_Unknown
+#   ch_Physical
+#   ch_Barbell
+#   ch_DimaBlood
 
 # Локации:
 #   bg_Phon
